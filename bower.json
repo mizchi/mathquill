@@ -1,0 +1,13 @@
+{
+  "name": "mathquill",
+  "version": "0.9.3",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "src",
+    "tests"
+  ]
+}
